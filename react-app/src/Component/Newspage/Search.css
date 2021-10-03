@@ -1,0 +1,21 @@
+header {
+    background-Color: rgb(248, 233, 250);
+    margin: -1px;
+}
+
+.logo{
+    text-Align: center;
+    color: rgb(20, 18, 18);
+}
+
+.input{
+    border: 2px solid;
+    width: 190px;
+    color:rgb(177, 20, 240);
+    margin: -5px 0;
+    padding: -1px;
+    
+}
+h5{
+    color: black;
+}

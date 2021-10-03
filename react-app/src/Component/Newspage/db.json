@@ -1,0 +1,124 @@
+{
+  "bookings": [
+    {
+      "id": 924,
+      "hotelName": "The Taj Mahal Palace",
+      "name": "sawan",
+      "bookingDate": "2021-07-21",
+      "phone": "78586587",
+      "status": "Booking Rejected"
+    },
+    {
+      "id": 825,
+      "hotelName": "The Ashtan Sarovar Portico",
+      "name": "Sawan_10",
+      "phone": "6546867",
+      "bookingDate": "2021-05-12",
+      "status": "Booking Confirmed"
+    },
+    {
+      "id": 784,
+      "hotelName": "Snow Bliss",
+      "name": "moni",
+      "bookingDate": "2021-06-29",
+      "phone": "232532",
+      "status": "Booking Confirmed"
+    },
+    {
+      "id": 263,
+      "hotelName": "Snow Bliss",
+      "name": "ajit",
+      "bookingDate": "2020-12-29",
+      "phone": "21424354758",
+      "status": "Pending"
+    },
+    {
+      "id": 689,
+      "hotelName": "Snow Bliss",
+      "name": "rohit",
+      "bookingDate": "2020-12-28",
+      "phone": "12345678",
+      "status": "Pending"
+    },
+    {
+      "id": 759,
+      "hotelName": "Snow Bliss",
+      "name": "manoj",
+      "bookingDate": "2021-06-15",
+      "phone": "3535546",
+      "status": "Pending"
+    },
+    {
+      "id": 207,
+      "hotelName": "The Corinthians Resort",
+      "name": "Shaktimaan",
+      "bookingDate": "2020-02-09",
+      "phone": "9967436548",
+      "status": "Pending"
+    },
+    {
+      "id": 15,
+      "hotelName": "The Ashtan Sarovar Portico",
+      "name": "manoj",
+      "bookingDate": "2020-07-21",
+      "phone": "868756",
+      "status": "Pending"
+    },
+    {
+      "id": 304,
+      "hotelName": "The Taj Mahal Palace",
+      "name": "Sujit",
+      "bookingDate": "2020-10-29",
+      "phone": "96754327",
+      "status": "Pending"
+    },
+    {
+      "id": 986,
+      "hotelName": "The Piccadily",
+      "name": "Sawankumar",
+      "bookingDate": "2020-11-16",
+      "phone": "9976453246",
+      "status": "Pending"
+    },
+    {
+      "id": 209,
+      "hotelName": "Vivaan - The Sun Rise",
+      "name": "Anmol",
+      "bookingDate": "2020-12-30",
+      "phone": "7276548394",
+      "status": "Pending"
+    },
+    {
+      "id": 297,
+      "hotelName": "The Anantmaya Resort",
+      "name": "Anmol",
+      "bookingDate": "2020-12-29",
+      "phone": "9843759653",
+      "status": "Pending"
+    },
+    {
+      "id": 461,
+      "hotelName": "The Taj Mahal Palace",
+      "name": "Sawankumar",
+      "bookingDate": "2020-11-16",
+      "phone": "6877874235",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "hotelName": "The Anantmaya Resort",
+      "name": "Puneet",
+      "bookingDate": "2021-04-30",
+      "phone": "9867543567",
+      "status": "Booking Confirmed"
+    },
+    {
+      "id": 156,
+      "hotelName": "Rodas - An Ecotel Hotel",
+      "name": "Saumesh",
+      "bookingDate": "2021-04-30",
+      "phone": "8976547645",
+      "status": "Booking Confirmed"
+    }
+  ]
+}
